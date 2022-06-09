@@ -1,5 +1,7 @@
 # ABC254 B - Practical Computing
 
+[solution](b.cpp)
+
 素直に実装します．
 
 Implement as it described in the problem.

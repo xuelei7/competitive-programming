@@ -1,5 +1,7 @@
 # ABC254 C - K Swap
 
+[solution](c.cpp)
+
 $K = 4$ , $N = 13$ のとき，自由に swap できるグループを色分けするとこんな感じ．
 
 When $K = 4$ and $N = 13$, we can move numbers to any position inside the group with same color. As showed in the picture below.
